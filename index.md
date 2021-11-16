@@ -3,9 +3,9 @@
 Build custom Discord Bots with no coding.
 
 # Downloads
-### [DIRECT DOWNLOAD](https://github.com/discordbotstudios/discordbotstudio/releases/download/Release/DBSUpdater.exe)
-### [LATEST VERSION](https://github.com/discordbotstudios/discordbotstudio/releases/tag/Release)
-##
+## [DIRECT DOWNLOAD](https://github.com/discordbotstudios/discordbotstudio/releases/download/Release/DBSUpdater.exe)
+## [LATEST VERSION](https://github.com/discordbotstudios/discordbotstudio/releases/tag/Release)
+
 "The best software available to make a discord bot with. Intuitive, easy to use, and very useful. With a very active developer, and a super helpful community if your ever stuck. It's definitely a must have if your interested in making a bot for discord." -Steam user
 
 ### Features
