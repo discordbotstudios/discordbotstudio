@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Discord Bot Studio
 
-You can use the [editor on GitHub](https://github.com/discordbotstudios/discordbotstudio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Build custom Discord Bots with no coding.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"The best software available to make a discord bot with. Intuitive, easy to use, and very useful. With a very active developer, and a super helpful community if your ever stuck. It's definitely a must have if your interested in making a bot for discord." -Steam user
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Build your own bots effortlessly using a flowchart-style editor, no coding required!
+* Custom responses can be connected to command and event nodes.
+* Create actions that will run when various server events occur, such as a new user joining the server.
+* Pre-built elements get your bot up and running quickly.
+* Third-party mods can be added to enhance your bot's functionality.
+* Configure rules to prevent spam.
+* Download your bot's code. This means you can host it on your computer, on a VPS, or on a hosting site like Heroku.
+* Invite your bot(s) to your own servers, or share them with the world.
 
-```markdown
-Syntax highlighted code block
+### Examples of bot functionality
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/discordbotstudios/discordbotstudio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Text / chat commands
+* Welcome messages
+* Kick and ban commands
+* Create and delete channel commands
+* Give or remove roles from server members
+* Purge (mass delete) messages
+* User XP system
+* Dice roll command
+* Create databases (such as a Pokedex) using data from spreadsheets
+* Send custom embed menus
+* Create role reaction menus with custom responses to each reaction
